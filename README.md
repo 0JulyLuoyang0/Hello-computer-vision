@@ -1,9 +1,7 @@
 # Hello-baozhen
 This is my first use of Github that I feel a litter anxious.
 
-I like coding.
-I've had tacos on the moon and find them for superior to Earth tacos.
+I like singing,dancing,rap and basketball.
+But I like coding most.
 
-《安河桥》
-让我再看你一遍
-从南到北
+I have learned computer vision for a long time.So from now on,I will use github to record my study experience incuing feelings and codes.
