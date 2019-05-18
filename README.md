@@ -1,4 +1,4 @@
-# Hello-baozhen
+# Hello-I am baozhen
 This is my first use of Github that I feel a litter anxious.
 
 I like singing,dancing,rap and basketball.
