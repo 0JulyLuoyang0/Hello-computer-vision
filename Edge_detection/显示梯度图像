@@ -1,0 +1,5 @@
+im=imread('gray.png');
+filt=fspeial('sobel');
+outim=imfilter(double(im),filt);
+imagesc(outim);
+colormap gray;
